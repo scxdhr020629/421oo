@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fuwuwaibao.iml" filepath="$PROJECT_DIR$/.idea/fuwuwaibao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgBuilder-base/kgBuilder-base.iml" filepath="$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgBuilder-base/kgBuilder-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgBuilder-meta/kgBuilder-meta.iml" filepath="$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgBuilder-meta/kgBuilder-meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgBuilder-pro/kgBuilder-pro.iml" filepath="$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgBuilder-pro/kgBuilder-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgbuilder.iml" filepath="$PROJECT_DIR$/Neo4j-KGBuilder-dev/kgbuilder.iml" />
+    </modules>
+  </component>
+</project>
